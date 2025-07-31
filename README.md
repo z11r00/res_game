@@ -56,7 +56,558 @@
 
 [▶杂项游戏资源区（备用）](https://docs.qq.com/doc/DRGNwRW1tSlB2ZUJw)
 
+### Switch模拟器
 
+##### (手机配置骁龙8以上，无须root)
+
+比如下载蛋蛋模拟器，可以通过观看广告获取积分换次数，看一两次广告就可以玩一天了，下面是用于switch模拟器的游戏包，喜欢的可以自行下载。
+
+#### NS游戏包列表一
+
+| 游戏名                                                       | 链接                                | 提取码 |
+| ------------------------------------------------------------ | ----------------------------------- | ------ |
+| 7号站出口【中文】【AVG】                                     | https://pan.quark.cn/s/a647ca60bd4a |        |
+| 8号出口【中文】【AVG】                                       | https://pan.quark.cn/s/fdf36567ebe6 |        |
+| 九日【中文】【ACT】                                          | https://pan.quark.cn/s/2f482e9857fb |        |
+| 1000xRESIST【中文】【AVG】                                   | https://pan.quark.cn/s/31816b986de4 |        |
+| [鬼谷八荒【中文】【RPG】                                     | https://pan.quark.cn/s/a4e675700228 |        |
+| [古墓丽影1-3 复刻版].【中文】【AVG】                         | https://pan.quark.cn/s/fe45a78de268 |        |
+| [马里奥赛车8 豪华版]3.0.3【中文】【RAC】                     | https://pan.quark.cn/s/851adeb59842 |        |
+| [忍者神龟 施耐德的复仇]ver.1.0.9【中文】【ACT】              | https://pan.quark.cn/s/e6a24504e625 |        |
+| [王国 双冠].Kingdom Two Crowns【中文】【RPG】                | https://pan.quark.cn/s/01fbcfc171d3 |        |
+| [雾隐战记C.A.R.D.S. RPG【中文】【S.RPG】                     | https://pan.quark.cn/s/29456047aa3a |        |
+| [小丑牌].Balatro【中文】【TAB】                              | https://pan.quark.cn/s/35d2e358e3fe |        |
+| ACA NEOGEO合集【英文】【ACT】                                | https://pan.quark.cn/s/e4677bee2705 |        |
+| ACA NEOGEO精选集vol.1【日文】【ACT】                         | https://pan.quark.cn/s/2ff231c32914 |        |
+| ACA NEOGEO精选集vol.2【中文】【ACT】                         | https://pan.quark.cn/s/363c7e74cc44 |        |
+| 安东大爆破【中文】【ACT】                                    | https://pan.quark.cn/s/e81024487579 |        |
+| 暗黑地牢2【中文】【RPG】                                     | https://pan.quark.cn/s/08396a31fa78 |        |
+| 艾伦塔罗斯奇历【中文】【RPG】                                | https://pan.quark.cn/s/f40cf4f8466c |        |
+| 安娜的僵尸奥德赛【中文】【ACT】                              | https://pan.quark.cn/s/8d7ef264efcd |        |
+| Arcade Archives街机档案馆合集【英日】【ACT】                 | https://pan.quark.cn/s/b69f67382766 |        |
+| 艾瑞：静湖【中文】【AVG】                                    | https://pan.quark.cn/s/0e3f5a2f5ae9 |        |
+| 阿斯特赖亚 六面神谕【中文】【ACT】                           | https://pan.quark.cn/s/b083d6b44fa7 |        |
+| 暗影诅咒：地狱 重制版【中文】【ACT】                         | https://pan.quark.cn/s/89ecb9872b82 |        |
+| 阿祖拉的水晶【中文】【AVG】                                  | https://pan.quark.cn/s/319c35217d0e |        |
+| 彼岸星【中文】【AVG】                                        | https://pan.quark.cn/s/de51ce54ab03 |        |
+| 波比的游戏时间【英文】【AVG】                                | https://pan.quark.cn/s/c4756d0cc088 |        |
+| 北海道连续杀人事件 消失在鄂霍次克 ～追忆流冰 流泪人偶【中文】【AVG】 | https://pan.quark.cn/s/e236aec8b2e0 |        |
+| 白日梦魇 沙堡 1994【中文】【AVG】                            | https://pan.quark.cn/s/c0b33a4d6f87 |        |
+| Bruce and Box【中文】【ACT】                                 | https://pan.quark.cn/s/2adbc5be2280 |        |
+| 波斯王子 失落的王冠1.0.5【中文】【ACT】                      | https://pan.quark.cn/s/fdd15cbe9823 |        |
+| 波斯王子 失落的王冠v.1.3.0【中文】【ACT】                    | https://pan.quark.cn/s/24e968c43148 |        |
+| 病态 愤怒之王【中文】【AVG】                                 | https://pan.quark.cn/s/ed01d70bade3 |        |
+| 兵团突击 现代战争【中文】【RTS】                             | https://pan.quark.cn/s/a0e41d6386d5 |        |
+| 百万吨级武藏W【中文】【ACT】                                 | https://pan.quark.cn/s/7863f03b39f4 |        |
+| 变形金刚 银河试炼【中文】【ACT】                             | https://pan.quark.cn/s/9eb01117fe0f |        |
+| 不朽枭雄三部曲【中文】【AVG】                                | https://pan.quark.cn/s/9d8c86348c9e |        |
+| 薄桜鬼SSL 【中文】【AVG】                                    | https://pan.quark.cn/s/ac2c3540492d |        |
+| 百英雄传 v.1.0.7【中文】【RPG】                              | https://pan.quark.cn/s/2c7203dc61a5 |        |
+| 波与月夜之青莲【中文】【ACT】                                | https://pan.quark.cn/s/f1d05ffbc008 |        |
+| 拔作岛【中文】【AVG】                                        | https://pan.quark.cn/s/7b8b7eb9e10c |        |
+| 超次元海王星重生合集【中文】【RPG】                          | https://pan.quark.cn/s/7b8d9ef26861 |        |
+| 赤痕 夜之仪式v.1.50多米尼克的诅咒【中文】【ACT】             | https://pan.quark.cn/s/8f48ce28efdf |        |
+| 超级猴子球：香蕉大乱斗【中文】【ACT】                        | https://pan.quark.cn/s/160d61a75ad0 |        |
+| 超级马里奥派对：空前盛会【中文】【TAB】                      | https://pan.quark.cn/s/86c3e2797a95 |        |
+| 超级兔子人【中文】【ACT】                                    | https://pan.quark.cn/s/efa7d87ebd0f |        |
+| 采矿机器【中文】【ACT】                                      | https://pan.quark.cn/s/aa65a4efda9d |        |
+| 草坪修剪模拟器【中文】【SLG】                                | https://pan.quark.cn/s/715d73e3cb4b |        |
+| 从萨格里什起航 V1.01【中文】【S.RPG】                        | https://pan.quark.cn/s/5e4e12a24c75 |        |
+| 创世纪战：灰色遗迹【中文】【RPG】                            | https://pan.quark.cn/s/b4db34e240ae |        |
+| 超时空要塞：Shooting Insight【日文】【STG】                  | https://pan.quark.cn/s/c677f55e3aaf |        |
+| 厕所英雄【中文】【ACT】                                      | https://pan.quark.cn/s/acc5142ccaa6 |        |
+| 僵尸毁灭工程 官方中文 v41.78.16 支持手柄 解压即玩%2E         | https://pan.quark.cn/s/ccf236c4e637 | 29zx   |
+| 旧世界 官方中文 v1.0.65077 神圣与亵渎DLC 全DLC 安装即玩%2E   | https://pan.quark.cn/s/f0de3c38f999 | c63r   |
+| 缉私警察 豪华中文 Build.10801951-03.20-禁运追击部队 全DLC 解压即玩%2E | https://pan.quark.cn/s/b0ac7ac68417 | q4qp   |
+| 救赎死神(救赎收割者) Redemption Reapers 官方中文 v1.4.1 支持手柄 解压即玩%2E | https://pan.quark.cn/s/472058a43222 | 67x9   |
+| 晶体管 豪华中文收藏版 v1.50473 全DLC 通关第一关存档 支持手柄 解压即玩%2E | https://pan.quark.cn/s/706c7154aaf4 | r3z3   |
+| 监狱模拟器 Prison Simulator 官方中文 v1.2.2.2 解压即玩%2E    | https://pan.quark.cn/s/66f60a335aaa | 1t2m   |
+| 镜之边缘 汉化简中收藏版 v1.0.1 单独简体中文补丁 第三人称补丁 支持手柄 解压即玩%2E | https://pan.quark.cn/s/82090a34e5c5 | ta67   |
+| 节奏医生 官方中文收藏版 v0.13.0(r28)-新增内容与优化-全新关卡-联动 解压即玩%2E | https://pan.quark.cn/s/aee2fa20cf2d | zjde   |
+| 恐怖黎明：终极版 豪华中文收藏版 v1.1.9.8 全DLC 1.1.9.8升级补丁 支持手柄 解压即玩%2E | https://pan.quark.cn/s/ed9ae963f3b5 | o0oo   |
+| 恐鬼症 官方中文 v0.8.1.7 单独联机补丁 支持手柄 解压即玩%2E   | https://pan.quark.cn/s/76fd7899caec | 3fc7   |
+| 卡牌生存：热带岛屿 官方中文 v1.05o 内置修改器 解压即玩%2E    | https://pan.quark.cn/s/a48812d8289a | kgzj   |
+| 狂野西部时代 官方中文 v0.1.8251 支持手柄 解压即玩%2E         | https://pan.quark.cn/s/bd9800293c87 | 0yn2   |
+| 空中王国 官方中文 v1.10.3 解压即玩%2E                        | https://pan.quark.cn/s/b88cd7f67d23 | kdpb   |
+| 狼奔豕突2：消失的信号 官方中文 v1.2.14 单独学习补丁 支持手柄 解压即玩%2E | https://pan.quark.cn/s/3a7858cfa16b | 5gko   |
+| 蜡笔小新 风起云涌! 火焰的春日部快腿侠!! 官方中文收藏版 v1.0.0 支持手柄 解压即玩%2E | https://pan.quark.cn/s/2a67cd0366de | x3br   |
+| 领地人生：林中村落 官方中文 v1.1.6814 支持手柄 解压即玩%2E   | https://pan.quark.cn/s/8c8d88990912 | v60j   |
+| 领地：种田与征战 官方中文v20230113-全面发展 解压即玩%2E      | https://pan.quark.cn/s/5bafacfdfad4 | 5iu6   |
+| 里弗希恩牧场 The Ranch of Rivershine 汉化简中 v1.0.0.4 解压即玩%2E | https://pan.quark.cn/s/f347def7b498 | bz9l   |
+| 乐高积木传说 豪华中文 v1.6.r19417 全DLC 原声音乐 支持手柄 解压即玩%2E | https://pan.quark.cn/s/2c11face33a6 | d046   |
+| 灵魂变种 官方中文 v1.1.1 支持手柄 解压即玩%2E                | https://pan.quark.cn/s/0d7b2bcf31c8 | ee1k   |
+| 餐厅大亨 我的烹饪帝国【中文】【SLG】                         | https://pan.quark.cn/s/0d40c86b91d0 | xwqp   |
+| 刺绣【中文】【PUZ】                                          | https://pan.quark.cn/s/8578396a0740 | macj   |
+| 超越善恶【中文】【AVG】                                      | https://pan.quark.cn/s/0547515afe09 | esoq   |
+| 柴油遗产：无耻时代【英文】【FTG】                            | https://pan.quark.cn/s/5ee164025739 | wrcp   |
+| 超越银河世界【中文】【ACT】                                  | https://pan.quark.cn/s/80a23714d2f7 | 5cst   |
+| 对不起，我只是个NPC【中文】【RPG】                           | https://pan.quark.cn/s/051884e11e9c | 0fea   |
+| 东方弹幕神乐 失落幻想【中文】【MUG】                         | https://pan.quark.cn/s/bb2d641aa988 | iq0i   |
+| 东方符咒狂欢节【日文】【S.RPG】                              | https://pan.quark.cn/s/d42d0a20fda7 | zfpy   |
+| 东方夜雀食堂【中文】【RPG】                                  | https://pan.quark.cn/s/02257befbaa3 | b3cs   |
+| 东方月神夜【中文】【ACT】                                    | https://pan.quark.cn/s/752beab8976a | pbh7   |
+| 大衮 完整版【中文】【AVG】                                   | https://pan.quark.cn/s/77387b16d66d | ak62   |
+| 东京都市谜案特搜事件簿【日文】【AVG】                        | https://pan.quark.cn/s/7427691b5c2e | rbcl   |
+| 东京都市谜案特搜事件簿【中文】【AVG】                        | https://pan.quark.cn/s/a8deef8cc742 | 6kzu   |
+| 大江湖：苍龙与白鸟【中文】【RPG】                            | https://pan.quark.cn/s/de8f1ee1d05f | xp3f   |
+| 刀剑神域 碎梦边境【中文】【RPG】                             | https://pan.quark.cn/s/275ee6bc7330 | fiyv   |
+| 电锯甜心 重制版【中文】【ACT】                               | https://pan.quark.cn/s/a5e6cd7163c2 | 3loj   |
+| 刀尖跳跃者【中文】【ACT】                                    | https://pan.quark.cn/s/7aaa171b92b9 | cgac   |
+| 东京巫女 幸存者【中文】【STG】                               | https://pan.quark.cn/s/1b85f0338a56 | c2a8   |
+| 大家一起骰子街【中文】【TAB】                                | https://pan.quark.cn/s/d2539db8bf3b | xrt7   |
+| 多卡邦！愤怒的铁剑【日文】【ACT】                            | https://pan.quark.cn/s/323b4edfcd38 | irj8   |
+| 哆啦A梦的铜锣烧店物语【中文】【SLG】                         | https://pan.quark.cn/s/f2e71bb1d1e6 | 4qle   |
+| 弹球FX【中文】【TAB】                                        | https://pan.quark.cn/s/4705fd1754fa | x0wo   |
+| 冬日主题游戏合集【中文】【PUZ】                              | https://pan.quark.cn/s/86afae061561 | 8166   |
+| 淡水河谷：皇冠之影【英文】【RPG】                            | https://pan.quark.cn/s/a581d584831a | yu69   |
+| 迪士尼梦幻岛：米奇和他的朋友们【中文】【ACT】                | https://pan.quark.cn/s/cbfd8c857374 | j3v4   |
+| 迪士尼音乐游行 ：安可【中文】【MUG】                         | https://pan.quark.cn/s/fd65766c4109 | k02t   |
+| 迪斯尼音乐：安可【日文】【MUG】                              | https://pan.quark.cn/s/ca92b9f6e23b | mil4   |
+| 地铁模拟器2【中文】【SLG】                                   | https://pan.quark.cn/s/a21ab2441bbc | 9zg6   |
+
+#### NS游戏包列表二
+
+| 动物井【中文】【AVG】                                     | https://pan.quark.cn/s/664a571278cf | hkki |
+| --------------------------------------------------------- | ----------------------------------- | ---- |
+| 动物派对【中文】【FTG】                                   | https://pan.quark.cn/s/659d1ff655c9 | q57p |
+| 地下城4【中文】【RPG】                                    | https://pan.quark.cn/s/31d4bbdb7e19 | x4fq |
+| 喋血街头：脑损伤【中文】【FPS】                           | https://pan.quark.cn/s/f60bbb731c64 | khmk |
+| 电钻少女【中文】【ACT】                                   | https://pan.quark.cn/s/ca4e95263e65 | zkw7 |
+| EA SPORTS FC 24 足球【中文】【SPG】                       | https://pan.quark.cn/s/2dc77253d1cd | uj3h |
+| EA SPORTS FC 25 足球【中文】【SPG】                       | https://pan.quark.cn/s/39f0b9035c44 | lhxh |
+| 恶魔城 多米纳斯合集【英文】【ACT】                        | https://pan.quark.cn/s/8f4ecbccafde | 1y3t |
+| 恶魔城合集【日文】【ACT】                                 | https://pan.quark.cn/s/b3d0208a3856 | vphe |
+| 二战飞机格斗【中文】【STG】                               | https://pan.quark.cn/s/7c655b1d13b2 | f8zc |
+| F1车队经理24【中文】【SLG】                               | https://pan.quark.cn/s/3dafe1b16e12 | kgwq |
+| F1车队经理25【中文】【SLG】                               | https://pan.quark.cn/s/dc4af42af4c6 | ft7f |
+| F1方程式赛车【英文】【RAC】                               | https://pan.quark.cn/s/8ae8f98e8f69 | jg7t |
+| Famicom侦探俱乐部 笑脸男【中文】【AVG】                   | https://pan.quark.cn/s/4e6d672dce4c | kfnf |
+| Fate 盈月之仪【中文】【ACT】                              | https://pan.quark.cn/s/05e5fe2b2b0a | wlzq |
+| 风暴驭使【中文】【ACT】                                   | https://pan.quark.cn/s/70335e104853 | 747r |
+| 腐化【中文】【AVG】                                       | https://pan.quark.cn/s/8a03453a964f | jhlt |
+| 封魔战记【日文】【S.RPG】                                 | https://pan.quark.cn/s/46e0ace01968 | 1twc |
+| 飞向月球【中文】【AVG】                                   | https://pan.quark.cn/s/37b13700dd2a | yjwc |
+| G-mode真女神转生3前传【日文】【RPG】                      | https://pan.quark.cn/s/dcb8e44f246f | 5p88 |
+| 告别北方【中文】【AVG】                                   | https://pan.quark.cn/s/69b69928920f | 3t3q |
+| 孤胆阿图【中文】【ACT】                                   | https://pan.quark.cn/s/addd494da367 | snxz |
+| 高达合购组 闪电十一人体验版+1.1.0补丁【中文】【SPG】      | https://pan.quark.cn/s/5529223b87c8 | mu2p |
+| 高达合购组全网首发 地球防卫军港版【中文】【ACT】          | https://pan.quark.cn/s/c1f453494093 | c3my |
+| 高达合购组全网首发 轩辕剑柒【中文】【RPG】                | https://pan.quark.cn/s/59a08d886bad | kadv |
+| 高达破坏者4【中文】【ACT】                                | https://pan.quark.cn/s/46758d3fc840 | 5305 |
+| 孤胆佣兵【中文】【ACT】                                   | https://pan.quark.cn/s/2c2898f8c578 | lya2 |
+| 工房库 噩梦历险记【中文】【AVG】                          | https://pan.quark.cn/s/9400efd2bab5 | 1754 |
+| 鬼谷八荒1.0.2【中文】【RPG】                              | https://pan.quark.cn/s/abd2559e103c | ews8 |
+| 鬼谷八荒1.0.4【中文】【RPG】                              | https://pan.quark.cn/s/cfc75c11cd09 | bbkx |
+| 鬼谷八荒【中文】【RPG】                                   | https://pan.quark.cn/s/7e9f8529f902 | fd60 |
+| 狗钩【中文】【ACT】                                       | https://pan.quark.cn/s/78820dc14ad1 | exom |
+| 赶紧送走【中文】【ACT】                                   | https://pan.quark.cn/s/2160bcdb66fd | d6n3 |
+| 过木不汪【中文】【AVG】                                   | https://pan.quark.cn/s/4f56635d1d84 | qh8m |
+| 鬼灭之刃：争当最强斗士【中文】【TAB】                     | https://pan.quark.cn/s/8e686f377554 | 5zkd |
+| 共鸣之吻【中文】【AVG】                                   | https://pan.quark.cn/s/47e9c61c3a32 | 6pen |
+| 过山车大亨经典版【英文】【SLG】                           | https://pan.quark.cn/s/b6ca116c593a | vydu |
+| 钢砂火星编年史-生存模拟器【中文】【AVG】                  | https://pan.quark.cn/s/ba5bf17c5ff6 | 6ktl |
+| 孤山难越【中文】【AVG】                                   | https://pan.quark.cn/s/3572c1f2bd4a | kovl |
+| 钢铁陨落 入侵【中文】【STG】                              | https://pan.quark.cn/s/1aaba42aea1d | fn2n |
+| 怪物猎人物语【中文】【RPG】                               | https://pan.quark.cn/s/b8c44f91f492 | ppse |
+| 国王之墓【中文】【RPG】                                   | https://pan.quark.cn/s/3bd00f3cf54a | bdu8 |
+| GYLT【中文】【AVG】                                       | https://pan.quark.cn/s/56709020e850 | 5daf |
+| 瓜约塔【中文】【AVG】                                     | https://pan.quark.cn/s/0c7e3f5ca986 |      |
+| 关于我转生变成史莱姆这档事 坦派斯特开拓谭 【中文】【RPG】 | https://pan.quark.cn/s/e51d14edf428 | oyey |
+| 黑暗世界【中文】【AVG】                                   | https://pan.quark.cn/s/ce40b7707eb4 | jvp1 |
+| 魂斗罗：加鲁加行动【中文】【STG】                         | https://pan.quark.cn/s/ec450d0c1c7a | yze6 |
+| 荒岛余生【中文】【AVG】                                   | https://pan.quark.cn/s/e8481c500495 | 987  |
+| 韩国铁路驾驶 Uijeongbu 轻轨【中文】【SLG】                | https://pan.quark.cn/s/2b70a5a6f952 | p8fj |
+| 韩国无人机飞行之旅春川市【中文】【AVG】                   | https://pan.quark.cn/s/d9501b275fb1 | fx1a |
+| 骸骨王座 埃里科纳编年史【英文】【ACT】                    | https://pan.quark.cn/s/c965296e2c90 |      |
+| 黄昏的天使【中文】【STG】                                 | https://pan.quark.cn/s/4e5954ccaba9 | dvda |
+| 护核纪元【中文】【RPG】                                   | https://pan.quark.cn/s/1ed1fa4be116 | ot6p |
+| 合金弹头战略版【中文】【S.RPG】                           | https://pan.quark.cn/s/6bbedf2afc83 | fjuh |
+| 合金弹头：进攻【中文】【SLG】                             | https://pan.quark.cn/s/699d6632144b | acf5 |
+| 黄金偶像谜案 完整版【中文】【AVG】                        | https://pan.quark.cn/s/6c80afce763f | qh8s |
+| 火箭骑士历险记重闪合集【英文】【ACT】                     | https://pan.quark.cn/s/00852b3b380b |      |
+| 哈利波特 魁地奇锦标赛【中文】【SPG】                      | https://pan.quark.cn/s/36c887b22b38 | kqez |
+| 海绵宝宝 派大星游戏【中文】【ACT】                        | https://pan.quark.cn/s/c3dae1285d81 | b2wc |
+| 昏迷2B 地下墓穴【中文】【AVG】                            | https://pan.quark.cn/s/5d1cefb32324 | ipz1 |
+| 后末日侠盗【中文】【ACT】                                 | https://pan.quark.cn/s/dc404d4ff8ff | m9b9 |
+| 胡闹加油【中文】【AVG】                                   | https://pan.quark.cn/s/1338b9bbfb5c | kch5 |
+| 皇牌空战7 未知空域 豪华版【中文】【STG】                  | https://pan.quark.cn/s/a20d7413a28f | jxd8 |
+| 幻日夜羽 - 蜃景努玛梓【中文】【RPG】                      | https://pan.quark.cn/s/4263b38fa8d0 |      |
+| 回声时代【中文】【RPG】                                   | https://pan.quark.cn/s/86286f578ad3 | amkl |
+| 花式台球【中文】【APG】                                   |                                     | onwq |
+| 户外钓鱼 夏日时光【中文】【AVG】                          | https://pan.quark.cn/s/1c3211231cf7 | ajyl |
+| 幻想地球【中文】【SLG】                                   | https://pan.quark.cn/s/3287c33900a3 | fe17 |
+| 幻想梦境【中文】【AVG】                                   | https://pan.quark.cn/s/4ae977ee8389 |      |
+| 幻想曲 新次元【英文】【RPG】                              | https://pan.quark.cn/s/76ebecfc6473 | nbc4 |
+| 秽翼的尤斯蒂娅【中文】【AVG】                             | https://pan.quark.cn/s/848ca00ade7b | s0i8 |
+| 花园生涯 模拟佛系生活【中文】【SLG】                      | https://pan.quark.cn/s/0ae4a9344a1b | nk6a |
+| 嘿哟走你！【中文】【AVG】                                 | https://pan.quark.cn/s/fb534b62617d |      |
+| 合战忍者村【中文】【SLG】                                 | https://pan.quark.cn/s/5e5b532dcb88 | ggp1 |
+| 海贼王 时光旅诗 豪华版【中文】【RPG】                     | https://pan.quark.cn/s/ac58be172fe4 | 53xl |
+| 禁闭求生【中文】【AVG】                                   | https://pan.quark.cn/s/d616d0e3a105 | spbk |
+| 警察模拟器巡警【中文】【AVG】                             | https://pan.quark.cn/s/5e4ff4d22fec | a7zh |
+| 间谍过家家【中文】【AVG】                                 |                                     | sgo1 |
+| 金刚战神 群狼盛宴【中文】【ACT】                          |                                     | sref |
+| 将军对决【中文】【RPG】                                   | https://pan.quark.cn/s/f2a9720cf16e | witf |
+| 狙击手大头兵【中文】【STG】                               | https://pan.quark.cn/s/ebebd785fbec | 0l0n |
+| 揭开天地万物之梦【中文】【AVG】                           | https://pan.quark.cn/s/52f0fcf727be |      |
+| 吉米克2【中文】【ACT】                                    | https://pan.quark.cn/s/8d2721e03b20 | 0oi1 |
+| 惧怕聚光灯【中文】【AVG】                                 | https://pan.quark.cn/s/59338dd2fe40 |      |
+| 机器人世界 奥德赛【中文】【AVG】                          | https://pan.quark.cn/s/979a0baa3c5d | 0j2m |
+| 九人安息【中文】【AVG】                                   | https://pan.quark.cn/s/dd68354c2ee1 | rv4a |
+| 极速骆马【中文】【ACT】                                   | https://pan.quark.cn/s/d5de2e5d17c2 | 30gt |
+| 健身拳击feat 初音未来-和未来一起健身 【中文】【SPG】      | https://pan.quark.cn/s/e5a15c926a56 | 3kyp |
+| 健身拳击feat 初音未来-和未来一起健身【中文】【SPG】       | https://pan.quark.cn/s/f3107cbc642a | 3yus |
+| 巨石【英文】【AVG】                                       | https://pan.quark.cn/s/6e22af8c2a57 | rr2r |
+| 交响乐之雨【中文】【AVG】                                 | https://pan.quark.cn/s/1af5ce6e4c14 | 4h72 |
+| 九夜 -刺狼【中文】【ACT】                                 | https://pan.quark.cn/s/1296aefac820 | 34a0 |
+| 绝影战士：重生【中文】【ACT】                             | https://pan.quark.cn/s/1fbc06139b52 | hsx0 |
+| 茧中蚕【中文】【AVG】                                     | https://pan.quark.cn/s/64d463236966 | n9n1 |
+| 恐怖惊魂夜X3【日文】【AVG】                               | https://pan.quark.cn/s/a08d9e76f603 | ngz1 |
+| 口袋骑师 骑行【中文】【SPG】                              | https://pan.quark.cn/s/6d8ed3e3b666 | g9te |
+| 凯恩的遗产1+2合集【英文】【AVG】                          | https://pan.quark.cn/s/9605e85090dc | svr0 |
+| 恐龙 RPG - 恐龙生存模拟器 生存者【英文】【RPG】           | https://pan.quark.cn/s/b2512976e399 | z9t4 |
+| 恐龙战队 丽塔回溯【英文】【ACT】                          | https://pan.quark.cn/s/2829d2dd9a23 | 6a8g |
+
+#### NS游戏包列表三
+
+| 肯塔基零号公路【中文】【AVG】                                | https://pan.quark.cn/s/49a84f61b2de | m9fs |
+| ------------------------------------------------------------ | ----------------------------------- | ---- |
+| 空牙合集【中文】【STG】                                      | https://pan.quark.cn/s/c5eb7eed9765 | xpii |
+| 肯泽拉传说：扎乌【中文】【ACT】                              | https://pan.quark.cn/s/cc9846416e02 | m6io |
+| 空战指挥部【英文】【STG】                                    | https://pan.quark.cn/s/ed4ea25f1514 | 1sjw |
+| 拉比-哩比 白金版【中文】【ACT】                              | https://pan.quark.cn/s/31052ef27814 | hlwu |
+| 蜡笔小新：煤炭镇的小白1.02【中文 】【AVG】                   | https://pan.quark.cn/s/d52b8f566077 | ciex |
+| 乐高地平线大冒险【中文】【ACT】                              | https://pan.quark.cn/s/4461284132d8 | qcdg |
+| 灵魂追猎者【中文】【ACT】                                    | https://pan.quark.cn/s/fc64addc2a5b | 1mm2 |
+| 蓝精灵 群落派对【中文】【TAB】                               | https://pan.quark.cn/s/c22fc22dce61 | w1fg |
+| 莱卡 鲜血铸就【中文】【ACT】                                 | https://pan.quark.cn/s/cc8a4cde7e26 | bico |
+| 流离归途【中文】【AVG】                                      | https://pan.quark.cn/s/9fa66b9d0941 | djda |
+| 流浪汉模拟器【中文】【AVG】                                  | https://pan.quark.cn/s/6f1958cd5a61 | c313 |
+| 罗蕾莱和激光眼【中文】【AVG】                                | https://pan.quark.cn/s/0be730fd0f80 | g8j7 |
+| 洛蕾塔【中文】【AVG】                                        | https://pan.quark.cn/s/0cf18361dfd8 | fvxz |
+| 浪漫沙加七英雄复仇【中文】【RPG】                            | https://pan.quark.cn/s/749e8505f5d0 | df3h |
+| 雷纳提斯【中文】【RPG】                                      | https://pan.quark.cn/s/62c52053eaa8 | irns |
+| 拉娜之星【中文】【AVG】                                      | https://pan.quark.cn/s/b7df135db94c | 4vtx |
+| 累趴侠【中文】【AVG】                                        | https://pan.quark.cn/s/39be4abed1b9 | m7vl |
+| 旅人苏菲亚【中文】【AVG】                                    | https://pan.quark.cn/s/eab916eb3a04 | 1som |
+| 灵视异闻 FILE23 本所七大不可思议【中文】【AVG】              | https://pan.quark.cn/s/021f82a70cf9 | 4nxq |
+| 龙威小子 街头大乱斗【中文】【ACT】                           | https://pan.quark.cn/s/5d504620fe4b | vwi6 |
+| 龙王最强图鉴【日文】【SLG】                                  | https://pan.quark.cn/s/d3164b673412 | m29f |
+| 六星之门 星轨【中文】【AVG】                                 | https://pan.quark.cn/s/fe33ff11ab81 | srqj |
+| 路易吉鬼屋2HD【中文】【AVG】                                 | https://pan.quark.cn/s/bfc65affaac2 | jkiw |
+| 烈焰同盟+梦魇骑士团【中文】【S.RPG】                         | https://pan.quark.cn/s/0f384a5efab3 | odvw |
+| 面包房模拟器【中文】【SLG】                                  | https://pan.quark.cn/s/000f218f67b7 | d3yr |
+| 美国职棒大联盟24【英文】【SPG】                              | https://pan.quark.cn/s/f26a9d84d8a5 | zhr8 |
+| 迷糊蛋2 传奇【中文】【ACT】                                  | https://pan.quark.cn/s/2cb9e35511cf | gub2 |
+| 魔鬼恋人【中文】【AVG】                                      | https://pan.quark.cn/s/313faa983a70 | hqzv |
+| 麦克斯：兄弟魔咒【中文】【ACT】                              | https://pan.quark.cn/s/cebaa9b38101 | 5268 |
+| 茉莉花之炯：天命胤异传【中文】【AVG】                        | https://pan.quark.cn/s/60356cfca034 | pued |
+| 马力欧与路易吉RPG 兄弟齐航【中文】【RPG】                    | https://pan.quark.cn/s/70eb3fa229bc | xyhw |
+| 美丽新世界i【中文】【RPG】                                   | https://pan.quark.cn/s/4de0300abef1 | scth |
+| 猫咪斗恶龙3 【中文】【RPG】                                  | https://pan.quark.cn/s/75d4048f3d4f | h8pu |
+| 模拟建筑 4【中文】【SLG】                                    | https://pan.quark.cn/s/b4142d11a4e6 | wq2k |
+| 模拟山羊3【中文】【AVG】                                     | https://pan.quark.cn/s/e0fd3cb72f5f | ftxe |
+| 魔女之泉R【中文】【RPG】                                     | https://pan.quark.cn/s/5fc34f501947 | ryk1 |
+| MOTOGP24【中文】【RAC】                                      | https://pan.quark.cn/s/cbdb789d4e4f | 5y4z |
+| 美少女梦工厂 2 韶华再续【中文】【AVG】                       | https://pan.quark.cn/s/668ab00af85b | 00rc |
+| 魔神少女1+2【中文】【ACT】                                   | https://pan.quark.cn/s/15d4f282219a | uh7c |
+| 密室逃脱 ep3 南国渡假村篇【中文】【AVG】                     | https://pan.quark.cn/s/d700dbbd002b | i89s |
+| 迷失【中文】【AVG】                                          | https://pan.quark.cn/s/89adb2cefcf3 | gz9s |
+| 漫威对卡普空格斗合集：经典街机【中文】【ACT】                | https://pan.quark.cn/s/1b6c5ac95880 | 0hg4 |
+| 魔药经济学 大师之作版【中文】【RPG】                         | https://pan.quark.cn/s/2d7dc89119be | 2g2u |
+| 漫野奇谭【英文】【S.RPG】                                    | https://pan.quark.cn/s/e68183418299 | t6hw |
+| 命运之夜 复刻版【中文】【AVG】                               | https://pan.quark.cn/s/98dd663af5db | hojn |
+| 明治东京恋伽【中文】【AVG】                                  | https://pan.quark.cn/s/08a09339b4aa | gzjj |
+| 蛮之纪【中文】【ACT】                                        | https://pan.quark.cn/s/3f725fcb3c96 | n0nr |
+| 南方公园：白雪奇迹【英文】【ACT】                            | https://pan.quark.cn/s/90b896b6b39a | sis2 |
+| NBA 2K25 【中文】【SPG】                                     | https://pan.quark.cn/s/9dc69ea4a7c7 | kmau |
+| 女鬼桥1 开魂路【中文】【AVG】                                | https://pan.quark.cn/s/65ac7818dc04 | 54h7 |
+| 女鬼桥2 释魂路【中文】【AVG】                                | https://pan.quark.cn/s/59cac907e978 | giwq |
+| 怒火 永恒遗迹【中文】【FPS】                                 | https://pan.quark.cn/s/8d884417a4dc | mer0 |
+| 霓虹节拍【中文】【MUG】                                      | https://pan.quark.cn/s/3fb077cbee3f | b16o |
+| 逆转检察官1&2 御剑精选集【中文】【AVG】                      | https://pan.quark.cn/s/1b87d2f27202 | 7hoo |
+| 牛仔决斗：红色狂野西部大屠杀【英文】【ACT】                  | https://pan.quark.cn/s/d2e214f60439 | t6zp |
+| 欧罗巴【中文】【AVG】                                        | https://pan.quark.cn/s/662b775ec8c3 | dbbs |
+| OTXO【中文】【STG】                                          | https://pan.quark.cn/s/f1e0f0535eee | c91o |
+| Pentiment 隐迹渐显【中文】【RPG】                            | https://pan.quark.cn/s/00814f7c2ba0 | 6dek |
+| 毗卢遮那战姬：一树之风【中文】【AVG】                        | https://pan.quark.cn/s/583d1dd3ac0f | 4q8f |
+| 披萨塔【中文】【ACT】                                        | https://pan.quark.cn/s/cffc7ed99958 | i4qh |
+| 漂移传奇2【中文】【RAC】                                     | https://pan.quark.cn/s/0bd87185e8fc | d80c |
+| 切尔诺贝利人 完整版【中文】【AVG】                           | https://pan.quark.cn/s/a93ab2390724 | hyp2 |
+| 囚禁inside【中文】【AVG】                                    | https://pan.quark.cn/s/4bbd71636c3b | vq0e |
+| 奇迹少女：巴黎围困【中文】【ACT】                            | https://pan.quark.cn/s/c9efdb1ec493 | raog |
+| 奇妙探险队2【中文】【AVG】                                   | https://pan.quark.cn/s/a214f6194550 | 5q3h |
+| 潜水员戴夫v.1.0.3.924【中文】【AVG】                         | https://pan.quark.cn/s/069cf879b02e | g6pq |
+| 潜水员戴夫【中文】【AVG】                                    | https://pan.quark.cn/s/1528097f195b | s311 |
+| 请修好路【中文】【AVG】                                      | https://pan.quark.cn/s/02d6085f402c | ikvb |
+| 潜行者 封锁区传奇三部曲【中文】【AVG】                       | https://pan.quark.cn/s/fb731280d0b7 | hipb |
+| 全员恶人【中文】【AVG】                                      | https://pan.quark.cn/s/7afc1070fa48 | q6iu |
+| 枪与龙枪【中文】【ACT】                                      | https://pan.quark.cn/s/b23dc3542ca2 | eb59 |
+| 奇异人生 双重曝光【中文】【AVG】                             | https://pan.quark.cn/s/fed872526fd9 | 4lxx |
+| 奇娅【中文】【AVG】                                          | https://pan.quark.cn/s/22225b54c6a8 | mgau |
+| 日薄西山【中文】【AVG】                                      | https://pan.quark.cn/s/da328be66f3d | 9n85 |
+| 日本一中文游戏合集【中文】【RPG】                            | https://pan.quark.cn/s/10ff9c75188a | x967 |
+| 如龙：极【中文】【AVG】                                      | https://pan.quark.cn/s/8e496bade574 | bouq |
+| RoRo PuzzMiX 落落谜可思【中文】【PUZ】                       | https://pan.quark.cn/s/a1c788dea878 | ppms |
+| RPG MAKER WITH【日文】【ETC】                                | https://pan.quark.cn/s/457096ef9abc | 6q94 |
+| 燃烧吧！乙女道士 ~华游恋语~【日文】【AVG】                   | https://pan.quark.cn/s/671d67c94bdf | a2dw |
+| 任天堂世界锦标赛 FC世界大会【中文】【ACT】                   | https://pan.quark.cn/s/14c1d77a5f0a | 0qi2 |
+| 任天堂官方模拟器20240607【日文】【ACT】                      | https://pan.quark.cn/s/d42a7ec43f15 | 3hl2 |
+| 任天堂Switch运动ver1.5.0【中文】【SPG】                      | https://pan.quark.cn/s/ca0cc68da0bb | i2fw |
+| 热血三国志2乱世风云【中文】【ACT】                           | https://pan.quark.cn/s/e3796c01fb5c | rkdx |
+| 忍者神龟 变种解放【中文】【ACT】                             | https://pan.quark.cn/s/448946c0fbd0 | c68o |
+| 忍者神龟 斯普林特的命运【中文】【ACT】                       | https://pan.quark.cn/s/aca81fa8ec45 | 3fj2 |
+| 忍者神龟街机：变种人之怒【中文】【ACT】                      | https://pan.quark.cn/s/49a01d43afaa | szaj |
+| 忍者杀手 火烧新埼玉【中文】【SCT】                           | https://pan.quark.cn/s/713fd533f7a3 | hv6w |
+| 忍者神威 忍 零号【中文】【ACT】                              | https://pan.quark.cn/s/fc9aa2020645 | g8do |
+| 神椿市合奏团【中文】【MUG】                                  | https://pan.quark.cn/s/a1f2da2960b2 | pwyv |
+| 似曾相识的那些游戏都换火柴人当主角了，你真的能够顺利通关吗2【中文】【ACT】 | https://pan.quark.cn/s/4d54cbae5792 | 1b38 |
+| 三国志8重制版【中文】【SLG】                                 | https://pan.quark.cn/s/0241585b7390 | 2a6t |
+| 塞尔达传说 智慧的再现【中文】【RPG】                         | https://pan.quark.cn/s/a85714671453 | ufnz |
+| 生化变种【中文】【RPG】                                      | https://pan.quark.cn/s/6ec3cc02e024 | izeg |
+| 沙加：翠之超越【英文】【RPG】                                | https://pan.quark.cn/s/240a5cd6eac0 | qzm1 |
+| 时空幻境：周年纪念版【中文】【AVG】                          | https://pan.quark.cn/s/d17ed6cd2d6e | 9p18 |
+| 实况力量棒球2024-2025【日文】【SPG】                         | https://pan.quark.cn/s/fc6b78617b43 | cgl4 |
+| 失落的记忆【中文】【AVG】                                    | https://pan.quark.cn/s/a2fcbec02263 | 0who |
+| 杀戮尖塔【中文】【RPG】                                      | https://pan.quark.cn/s/86fbdd583f64 | aoz0 |
+
+#### NS包列表四
+
+| 史力奇奇遇记 姆明山谷之歌【中文】【AVG】                  | https://pan.quark.cn/s/6c7dd9ace422 | y33k |
+| --------------------------------------------------------- | ----------------------------------- | ---- |
+| 赛马大亨10 2024【日文】【SLG】                            | https://pan.quark.cn/s/e4a2a8f409a3 | vl41 |
+| 双盲把戏【中文】【AVG】                                   | https://pan.quark.cn/s/568f6f83b2d5 | qwqi |
+| 生命之种【中文】【ACT】                                   | https://pan.quark.cn/s/3ad3fa560089 | bz15 |
+| SNK VS. CAPCOM CHAOS【英文】【FTG】                       | https://pan.quark.cn/s/73dd9c94ec40 | xsyx |
+| 神奇英侠【中文】【S.RPG】                                 | https://pan.quark.cn/s/01f383bdb9f2 | uza7 |
+| SNK经典游戏转switch合集106款                              | https://pan.quark.cn/s/701da02e6194 | wimp |
+| 索尼克×夏特 世代重启【中文】【ACT】                       | https://pan.quark.cn/s/a49f96ee8cab | t83k |
+| 三人冒险【英文】【ACT】                                   | https://pan.quark.cn/s/6c0a2afd310d | 5fol |
+| 松树 失去的故事【中文】【AVG】                            | https://pan.quark.cn/s/55c9b869af23 | gl14 |
+| 殊死搏斗：致命的复仇【中文】【ACT】                       | https://pan.quark.cn/s/4fb35deff883 | 17ow |
+| 杀死公主 原始剪辑版【中文】【AVG】                        | https://pan.quark.cn/s/dc60a441df6f | r521 |
+| SS三国志系列                                              | https://pan.quark.cn/s/f76c133f3ceb | i1bi |
+| 杀死乌鸦【中文】【ACT】                                   | https://pan.quark.cn/s/fb40011a4571 | gw48 |
+| 绅士游戏移植合集                                          | https://pan.quark.cn/s/f9c748f6bf6b | zyh6 |
+| 圣兽之王 【中文】【S.RPG】                                | https://pan.quark.cn/s/f5e28ada8f06 | 0t65 |
+| 神骰传说【中文】【RPG】                                   | https://pan.quark.cn/s/18e7b8cbc542 | frcz |
+| 三体融合【中文】【ACT】                                   | https://pan.quark.cn/s/835b3cf602a8 | wmvx |
+| SUNSOFT is Back 复古游戏收藏【中文】【ACT】               | https://pan.quark.cn/s/beefd67b611e | 0ixq |
+| 生物公司 救赎【中文】【AVG】                              | https://pan.quark.cn/s/c829dba64183 | ir3y |
+| 神无迷宫【中文】【ACT】                                   | https://pan.quark.cn/s/1e8db3e016e1 | an2n |
+| 双雄编年史天照之怒【中文】【ACT】                         | https://pan.quark.cn/s/0b621f3421e7 | ss3z |
+| 宿星的女朋友【中文】【AVG】                               | https://pan.quark.cn/s/6e83692d1e1c | t927 |
+| 深夏時光！ 二十世紀的暑假【中文】【AVG】                  | https://pan.quark.cn/s/0f798a2c54f2 | m5kz |
+| 苏醒之路【中文】【AVG】                                   | https://pan.quark.cn/s/ea9e87133ebd | xkn4 |
+| 神箱【日文】【RPG】                                       | https://pan.quark.cn/s/b77f0be69f26 | b9t5 |
+| 素媛：玩具仙境【中文】【AVG】                             | https://pan.quark.cn/s/bb1906587229 | ulew |
+| 时钟机关默示录【中文】【AVG】                             | https://pan.quark.cn/s/d21578327909 | o0n6 |
+| 神之亵渎2 v1.0.6【中文】【ACT】                           | https://pan.quark.cn/s/70915d55fe2c | inqb |
+| 神之天平外传 幻雾之洞窟【中文】【RPG】                    | https://pan.quark.cn/s/3e224ef88380 | ddew |
+| 时之刃【中文】【ACT】                                     | https://pan.quark.cn/s/0330703fd1bb | m5vm |
+| 水泽仙女【中文】【AVG】                                   | https://pan.quark.cn/s/cf5f085f6d6e | avhk |
+| 圣战之翼2【中文】【STG】                                  | https://pan.quark.cn/s/02a34909c647 | dnkl |
+| Taito 里程碑 3【中文】【ACT】                             | https://pan.quark.cn/s/46450780e66e | esdp |
+| 太鼓之达人 咚咚雷音祭 803dlc【中文】【MUG】               | https://pan.quark.cn/s/bf191f97cc27 | 6sss |
+| 天国：拯救 皇家版【中文】【RPG】                          | https://pan.quark.cn/s/7c8fd40fe01b | q1hf |
+| 天际海洋雇佣之翼【中文】【RPG】                           | https://pan.quark.cn/s/531abf8bfd0b | zjgg |
+| 同级生：重制版【日文】【AVG】                             | https://pan.quark.cn/s/838ca65bc551 | vwa8 |
+| 铁路日本！轨道之旅EX 登山电车 小田急箱根篇【中文】【SLG】 | https://pan.quark.cn/s/7ca3712b071a | mtqs |
+| 塔罗斯法则【英文】【AVG】                                 | https://pan.quark.cn/s/ef93ae7b32b6 | ugsq |
+| 通灵战士+幽灵王国收藏集【中文】【S.RPG】                  | https://pan.quark.cn/s/1e4a5993f464 | lfpd |
+| 天穹卡牌录【中文】【RPG】                                 | https://pan.quark.cn/s/d872db451d0e | 4ew8 |
+| 台球热【中文】【SPG】                                     | https://pan.quark.cn/s/9ab6e68f379f | 6f6t |
+| 通神榜【中文】【RPG】                                     | https://pan.quark.cn/s/d5dd821ee7e1 | 2m64 |
+| 天使之王【中文】【ACT】                                   | https://pan.quark.cn/s/8eb202ae6eee | ip8u |
+| 替身【中文】【AVG】                                       | https://pan.quark.cn/s/fb26175d9c1f | 0l8e |
+| 桃太郎电铁【中文】【TAB】                                 | https://pan.quark.cn/s/04dcb74d09c3 | dr3q |
+| 天体【中文】【AVG】                                       | https://pan.quark.cn/s/3b4b5975e6ce | 04pi |
+| 天选庶民的真命之选 【中文】【AVG】                        | https://pan.quark.cn/s/e45688c5e3d2 | sxcr |
+| 天翔铁骑【中文】【STG】                                   | https://pan.quark.cn/s/b8f52fd3813d | 2wbl |
+| 太阳港【中文】【ACT】                                     | https://pan.quark.cn/s/9c53a61a723e | 1oc2 |
+| 天狱乱斗【中文】【AVG】                                   | https://pan.quark.cn/s/1238e4e3958c | um2n |
+| 特种部队：眼镜蛇之怒【中文】【ACT】                       | https://pan.quark.cn/s/8f86875ebc02 | 3svr |
+| 兔子之夜【中文】【AVG】                                   | https://pan.quark.cn/s/f64da7647127 | xdhj |
+| 我的超级现充生活【中文】【RPG】                           | https://pan.quark.cn/s/9302180cd83c | w8xm |
+| 五等分的新娘双合辑【中文】【AVG】                         | https://pan.quark.cn/s/f785b397d5a5 | c8ay |
+| 我的青春物语果然有问题【中文】【AVG】                     | https://pan.quark.cn/s/3c381da9e956 | qasl |
+| 我的舞蹈教室【中文】【MUG】                               | https://pan.quark.cn/s/2c0bbb013126 | dm7n |
+| 完蛋！我被美女包围了【中文】【AVG】                       | https://pan.quark.cn/s/2cdd92b551c0 | a79g |
+| 瓦尔法瑞斯 兽神归来【中文】【STG】                        | https://pan.quark.cn/s/a71ceee2c6c9 | yjpt |
+| 王冠之战 黑王子【中文】【S.RPG】                          | https://pan.quark.cn/s/0f0de6531c9e | zaj4 |
+| 围攻【中文】【SLG】                                       | https://pan.quark.cn/s/2714dc2b8f5c | nc9z |
+| 玩具熊的五夜惊魂 陷落球池【中文】【AVG】                  | https://pan.quark.cn/s/3de6b34e460f | ai4q |
+| 悟空孙：黑神话【中文】【ACT】                             | https://pan.quark.cn/s/3b4af7ececcb | qomk |
+| 悟空之子：猴王神话【英文】【ACT】                         | https://pan.quark.cn/s/3a31aba79900 | yi8d |
+| 威利的游乐场【中文】【ACT】                               | https://pan.quark.cn/s/571b43052469 | gxyg |
+| 舞力全开LEGACY 800首歌曲整合版【中文】【MUG】             | https://pan.quark.cn/s/b816749eb2db | nli1 |
+| 万能钥匙【中文】【AVG】                                   | https://pan.quark.cn/s/289ec8db29b3 | 9brl |
+| 无穷时线【中文】【AVG】                                   | https://pan.quark.cn/s/fd935851c842 | 4rjd |
+| 巫术：疯狂领主的试验场【英文】【RPG】                     | https://pan.quark.cn/s/cc9297c075fb | m58q |
+| 乌鸦国度【中文】【AVG】                                   | https://pan.quark.cn/s/eeb6f27b5f61 | 2u6a |
+| 午夜杀生：重制版【中文】【ACT】                           | https://pan.quark.cn/s/055dfb843e24 | j8hb |
+| 物质世界 决定版【中文】【RPG】                            | https://pan.quark.cn/s/6ca7924ce718 | is21 |
+| 未知星程国语【中文】【RPG】                               | https://pan.quark.cn/s/714cf979e71f | 0dp3 |
+| 王座陨落【中文】【SLG】                                   | https://pan.quark.cn/s/57ce6440f940 | c3if |
+| 无职转生【中文】【RPG】                                   | https://pan.quark.cn/s/80db5e5b3ce2 | ic6q |
+| 小白兔电商【中文】【SLG】                                 | https://pan.quark.cn/s/3c0e12091f56 | dwip |
+| 小丑牌1.04【中文】【TAB】                                 | https://pan.quark.cn/s/cbab281de887 | szlq |
+| 小丑牌v1.0.9【中文】【TAB】                               | https://pan.quark.cn/s/5d6711743c0d | 4ofk |
+| 小丑牌ver.1.07【中文】【TAB】                             | https://pan.quark.cn/s/2609d028f7f0 | tnt1 |
+| 西瓜游戏【日文】【PUZ】                                   | https://pan.quark.cn/s/337901b6ad17 | wc4q |
+| 仙剑奇侠传1【中文】【RPG】                                | https://pan.quark.cn/s/3df48e6e661d | py5b |
+| 星界战士【中文】【ACT】                                   | https://pan.quark.cn/s/530acbbc0539 | ntda |
+| 星露谷物语 v.1.69.37【中文】【RPG】                       | https://pan.quark.cn/s/59d5dc3bc72b | 9s4k |
+| 星露谷物语v.1.6.9【中文】【RPG】                          | https://pan.quark.cn/s/3cb68e6e3f94 | hhwv |
+| 小猫咪大城市【中文】【AVG】                               | https://pan.quark.cn/s/b4283eb6c867 | po4o |
+| 星球大战 前线 经典合集【中文】【RPG】                     | https://pan.quark.cn/s/0c1db1fcba23 | m64g |
+| 星球大战：黑暗力量 重制版【英文】【FPS】                  | https://pan.quark.cn/s/2df0b810f09b | v6l6 |
+| 星球大战：赏金猎人【中文】【AVG】                         | https://pan.quark.cn/s/75ab00b8d5a3 | q2ed |
+| 雪人兄弟：仙境【中文】【ACT】                             | https://pan.quark.cn/s/6adad3ab2a15 | 0aye |
+| X杀手 末日余波 杀手的复仇【中文】【FPS】                  | https://pan.quark.cn/s/4279623748d0 | b8kp |
+| 新宿葬命【中文】【AVG】                                   | https://pan.quark.cn/s/b19b27637d9f | 8im7 |
+| 新手战术【中文】【S.RPG】                                 | https://pan.quark.cn/s/9d160e4f6869 | xr7d |
+| 锈苔【中文】【ACT】                                       | https://pan.quark.cn/s/61b46e8dad63 | 86tl |
+| 寻物大师 这里什么都没有【中文】【PUZ】                    | https://pan.quark.cn/s/13dacea95993 | 0tak |
+| 夏娃战记【中文】【ACT】                                   | https://pan.quark.cn/s/be02a8a1a24d | 4joa |
+| 下行 增强版【ACT】【中文】                                | https://pan.quark.cn/s/5855387a6c05 | sjqq |
+| 吸血鬼幸存者v.1.10.102含魂斗罗DLC【中文】【RPG】          | https://pan.quark.cn/s/86e7dfc21855 | dem3 |
+| 吸血鬼幸存者v.1.11.113【中文】【RPG】                     | https://pan.quark.cn/s/7df31ae32cf7 | oto0 |
+
+#### NS游戏包列表五
+
+| 吸血鬼幸存者v.1.12【中文】【RPG】                | https://pan.quark.cn/s/73a9c423485e | 7ncr |
+| ------------------------------------------------ | ----------------------------------- | ---- |
+| 小小贴纸铺【中文】【PUZ】                        | https://pan.quark.cn/s/8018fc89e78c | 2kc8 |
+| 蟹蟹寻宝奇遇记【中文】【ACT】                    | https://pan.quark.cn/s/676fb8a0bcb7 | dll2 |
+| 幸运之杖R2 ～湮没于时空中的默示录【中文】【AVG】 | https://pan.quark.cn/s/8e31f83d9c42 | i20y |
+| 雪之国度：冬季恋歌【中文】【AVG】                | https://pan.quark.cn/s/c13fc65023f2 | zzxc |
+| 血之浪人【中文】【ACT】                          | https://pan.quark.cn/s/057d1bd278e3 | iomh |
+| 星之终途【中文】【AVG】                          | https://pan.quark.cn/s/1b89e1aa1861 | db6r |
+| 雅达利50周年纪念合集【中文】【ACT】              | https://pan.quark.cn/s/8055b10e3be6 | t2vs |
+| 银斧 诚实的精灵【中文】【ACT】                   | https://pan.quark.cn/s/e3f6cd8b3c91 | lt7n |
+| 勇敢的心 战后还乡【中文】【AVG】                 | https://pan.quark.cn/s/a4dcdad67467 | wdgo |
+| 幽港迷城【中文】【RPG】                          | https://pan.quark.cn/s/609fc8220d35 | hd7q |
+| 月光水岸【中文】【SLG】                          | https://pan.quark.cn/s/786255930091 | dncb |
+| 月光石岛【中文】【RPG】                          | https://pan.quark.cn/s/8a2331580285 | oco1 |
+| 勇敢小骑士【中文】【RPG】                        | https://pan.quark.cn/s/a5e806da6e9f | qgdu |
+| 勇敢之地骑士团【中文】【ACT】                    | https://pan.quark.cn/s/86595be30cec | rfpu |
+| 雨魂 【中文】【AVG】                             | https://pan.quark.cn/s/f61884d3e064 | 0xov |
+| 永恒蔚蓝：流光【中文】【AVG】                    | https://pan.quark.cn/s/a75e65d46215 | i01t |
+| 遗迹传说【中文】【RPG】                          | https://pan.quark.cn/s/4dc49f139f95 | z5gj |
+| 妖精的尾巴2 【中文】【RPG】                      | https://pan.quark.cn/s/30f9ad00884d | h8bl |
+| 油尽航行【中文】【AVG】                          | https://pan.quark.cn/s/abeeb19a294b | knpt |
+| 羽袈流【中文】【AVG】                            | https://pan.quark.cn/s/a1f9a75a20d9 | 42ru |
+| 月姬：月之欠片【中文】【AVG】                    | https://pan.quark.cn/s/c503ab0bb560 | 6msv |
+| 幽灵霍迪【中文】【ACT】                          | https://pan.quark.cn/s/2ede446f34e6 | umfm |
+| 幼鳞【中文】【ACT】                              | https://pan.quark.cn/s/fc07359e79c8 | 8apx |
+| 友情速递【中文】【ACT】                          | https://pan.quark.cn/s/c6960bcdf518 | xngr |
+| 翌日 忌夜的噬灵超市【中文】【AVG】               | https://pan.quark.cn/s/2a5e29c34f5b | 5b8a |
+| 亚森罗平：昔日大盗【中文】【AVG】                | https://pan.quark.cn/s/e82f3608fb12 | nzzf |
+| 原神：可莉的恶作剧【中文】【AVG】                | https://pan.quark.cn/s/f1233c1f2ce9 | dvno |
+| 英雄传说 黎之轨迹 2 绯红原罪【日文】【RPG】      | https://pan.quark.cn/s/b57ec01e8e3a | 47pk |
+| 英雄傳說 黎之軌跡 for Nintendo Switch 體驗版     | https://pan.quark.cn/s/051453a73365 | i5t6 |
+| 英雄传说：黎之轨迹2【中文】【RPG】               | https://pan.quark.cn/s/0edff1666fd6 | d766 |
+| 影侠幻灵胎【中文】【ACT】                        | https://pan.quark.cn/s/b8cd3502dce4 | 8tig |
+| 英雄之时【英文】【SLG】                          | https://pan.quark.cn/s/393d514cabc4 | 6tb1 |
+| 越野大师赛：摩托车越野赛【英文】【RAC】          | https://pan.quark.cn/s/102ae9d32ad6 | rajs |
+| 有氧拳击3：你的私人教练【中文】【SPG】           | https://pan.quark.cn/s/6b32dd6d23b1 | x35m |
+| 寓言之地【中文】【RPG】                          | https://pan.quark.cn/s/baed298bbc26 | wjy0 |
+| 勇者斗恶龙3 HD-2D 豪华重制版【中文】【RPG】      | https://pan.quark.cn/s/ce7004c0e8b8 | 4p80 |
+| 勇者斗恶龙怪物仙境3【中文】【RPG】               | https://pan.quark.cn/s/0bb32e9a7783 | ccby |
+| 勇者斗恶龙X【中文】【RPG】                       | https://pan.quark.cn/s/6a98bd5fb45a | tfcz |
+| 影之回廊2 雨之四葩【中文】【AVG】                | https://pan.quark.cn/s/e647eace9b99 | 0le3 |
+| 再次死亡【中文】【AVG】                          | https://pan.quark.cn/s/160e039b2a54 | msg9 |
+| 纸鬼故事 睁开第三只眼【中文】【AVG】             | https://pan.quark.cn/s/34b26b7785d2 | 870e |
+| 整蛊鸦【中文】【AVG】                            | https://pan.quark.cn/s/d26d949753b5 | zdyo |
+| 长号冠军【中文】【MUG】                          | https://pan.quark.cn/s/e6d4a438875e | hmn8 |
+| 战壕惊魂【中文】【AVG】                          | https://pan.quark.cn/s/4efad6eb93cf | 2c6k |
+| 终极街霸2(V1.11)【中文】【FTG】                  | https://pan.quark.cn/s/906828bc324f | jzuj |
+| 最恐 ：青鬼【中文】【AVG】                       | https://pan.quark.cn/s/1d6633dbbc70 | 8stl |
+| 纸梦奇谭【中文】【AVG】                          | https://pan.quark.cn/s/294459a6fe1b | 96iz |
+| 真女神转生5：复仇【中文】【RPG】                 | https://pan.quark.cn/s/ac83f7a8d12d | ro55 |
+| 纸片马力欧：千年之门重制版【中文】【RPG】        | https://pan.quark.cn/s/c27394d326f6 | y2q4 |
+| 足球经理2024【中文】【SLG】                      | https://pan.quark.cn/s/60e87c935712 | qpo7 |
+| 足球联赛杯 街机足球模拟器【中文】【SPG】         | https://pan.quark.cn/s/940f5aecad32 | yqmf |
+| 蒸汽世界 劫掠2【中文】【S.RPG】                  | https://pan.quark.cn/s/e679a094c891 | 6u71 |
+| 战术打击：特种部队射击游戏【中文】【FPC】        | https://pan.quark.cn/s/96bffd1b4058 | vrmb |
+| 咒术回战【中文】【FTG】                          | https://pan.quark.cn/s/43a40fc60f2d | hmsr |
+| 长途客车模拟器【英文】【SIM】                    | https://pan.quark.cn/s/c27510f51957 | 2b9w |
+| 专业飞行模拟器豪华版【英文】【STG】              | https://pan.quark.cn/s/0fa7a1effb58 | b5yn |
+| 自由星球2【中文】【ACT】                         | https://pan.quark.cn/s/331a7a4ec804 | wkis |
+| 藏在巴厘岛的猫【中文】【AVG】                    | https://pan.quark.cn/s/e67c9c353c87 | bv2q |
+| 斩之道【中文】【ACT】                            | https://pan.quark.cn/s/99102b3edab9 | 1j9k |
+
+
+
+### 大型3A单机游戏
+
+| 艾尔登法环                                                   | https://pan.quark.cn/s/3217c7e6dc83                 | latg     |
+| ------------------------------------------------------------ | --------------------------------------------------- | -------- |
+| 地平线5                                                      | https://pan.quark.cn/s/d72a6cbabe2f                 | 1udz     |
+| 孤岛惊魂6                                                    | https://pan.quark.cn/s/6044e715e407                 | d0en     |
+| GTA5 1.60纯净版                                              | https://pan.quark.cn/s/fd30924453ac                 | 4jht     |
+| 怪物猎人物语2毁灭之翼                                        | https://pan.quark.cn/s/294add4596b3                 | 92k4     |
+| 霍格沃茨之遗 豪华整合优化版                                  | https://pan.quark.cn/s/a715b026d877                 | a43m     |
+| 皇牌空战7-未知空域全DLC                                      | https://pan.quark.cn/s/4df7bbebc544                 | s7pv     |
+| 荒野大嫖客2                                                  | https://pan.quark.cn/s/88f622dedeac                 | nx5g     |
+| 看门狗军团3                                                  | https://pan.quark.cn/s/4a3de5d3418c                 | ycrg     |
+| 龙珠超宇宙2整合版                                            | https://pan.quark.cn/s/3a0df23abd3a                 | xmzc     |
+| 漫威蜘蛛侠重制版                                             | https://pan.quark.cn/s/f76a9a675ba8                 | 8n87     |
+| 骑马与砍杀2领主                                              | https://pan.quark.cn/s/fd0340d5ac05                 | ca9h     |
+| 群星                                                         | https://pan.quark.cn/s/4a4fa9a1f294                 | jyta     |
+| 仁王2                                                        | https://pan.quark.cn/s/d6e8c35c1ad0                 | qldw     |
+| 师父V1.7.3.464 全DLC                                         | https://pan.quark.cn/s/dffe7def99db                 | y1jx     |
+| 上古卷轴天际周年纪念版                                       | https://pan.quark.cn/s/72884301012e                 | e6jk     |
+| 生化危机7                                                    | https://pan.quark.cn/s/98defac926f0                 | bcmk     |
+| 生化危机8                                                    | https://pan.quark.cn/s/4f4d1996e290                 | tx6w     |
+| 死亡搁浅导演剪辑版                                           | https://pan.quark.cn/s/b32870c43e57                 | 1.00E+87 |
+| 文明6                                                        | https://pan.quark.cn/s/c3ab53e1dae5                 | xqul     |
+| 武装突袭Reforger                                             | https://pan.quark.cn/s/ad74cb31a2d7                 | nc2u     |
+| 消逝的光芒2                                                  | https://pan.quark.cn/s/ae4661d448e6                 | 3oda     |
+| 战地5                                                        | https://pan.quark.cn/s/19a167a05a6f                 | a5bl     |
+| 侏罗纪世界进化2V1.31                                         | https://pan.quark.cn/s/d86cbf4869d8                 | 74l3     |
+| 战神4                                                        | https://pan.quark.cn/s/164a40d159df                 | aew4     |
+| 真三国无双8帝国                                              | https://pan.quark.cn/s/5ce41149b02d                 | 81rs     |
+| 植物大战僵尸                                                 | https://pan.quark.cn/s/8cfc36825929                 | 68sd     |
+| 最终幻想：零式HD                                             | https://pan.quark.cn/s/a7922aa702ea                 | 0uv5     |
+| 《古墓丽影：崛起》免安装绿色中文版                           | https://pan.quark.cn/s/07218649cb97                 | bjyv     |
+| 《荒野西部Z》免安装绿色版                                    | https://pan.quark.cn/s/16ef6d78c707                 | 3of9     |
+| 《击碎核心》免安装绿色版                                     | https://pan.quark.cn/s/8c76a2d890fb                 | dzvh     |
+| 《街头霸王5：冠军版》免安装绿色中文版                        | https://pan.quark.cn/s/257e12d891d4                 | f6qd     |
+| 《掠夺之地》免安装绿色版                                     | https://pan.quark.cn/s/04a68faeb6a0                 | cn8n     |
+| 《纳亚提河》免安装绿色版                                     | https://pan.quark.cn/s/ac6f0aa40e5b                 | p1nh     |
+| 《人生游戏2》免安装绿色版                                    | https://pan.quark.cn/s/ddabc617c0df                 | 5krj     |
+| 《侠盗猎车手：罪恶都市重制版》免安装绿色中文版               | https://pan.quark.cn/s/bdf5b3498365                 | gfor     |
+| 《原子之心》中文+中文语音 开发者版                           | https://pan.quark.cn/s/989836040657                 | nwe2     |
+| 《战斗任务：冷战》免安装绿色版                               | https://pan.quark.cn/s/99d3ee7750f6                 | hp0q     |
+| 《罪恶帝国》免安装绿色中文版                                 | https://pan.quark.cn/s/4c9c17de1171                 | 0gr2     |
+| 《战舰》免安装绿色版                                         | https://pan.quark.cn/s/b9dd5e11c5ef                 | b61l     |
+| 僵尸毁灭工程 官方中文 v41.78.16 支持手柄 解压即玩%2E         | https://pan.quark.cn/s/ccf236c4e637                 | 29zx     |
+| 旧世界 官方中文 v1.0.65077 神圣与亵渎DLC 全DLC 安装即玩%2E   | https://pan.quark.cn/s/f0de3c38f999                 | c63r     |
+| 缉私警察 豪华中文 Build.10801951-03.20-禁运追击部队 全DLC 解压即玩%2E | https://pan.quark.cn/s/b0ac7ac68417                 | q4qp     |
+| 救赎死神(救赎收割者) Redemption Reapers 官方中文 v1.4.1 支持手柄 解压即玩%2E | https://pan.quark.cn/s/472058a43222                 | 67x9     |
+| 晶体管 豪华中文收藏版 v1.50473 全DLC 通关第一关存档 支持手柄 解压即玩%2E | https://pan.quark.cn/s/706c7154aaf4                 | r3z3     |
+| 监狱模拟器 Prison Simulator 官方中文 v1.2.2.2 解压即玩%2E    | https://pan.quark.cn/s/66f60a335aaa                 | 1t2m     |
+| 镜之边缘 汉化简中收藏版 v1.0.1 单独简体中文补丁 第三人称补丁 支持手柄 解压即玩%2E | https://pan.quark.cn/s/82090a34e5c5                 | ta67     |
+| 节奏医生 官方中文收藏版 v0.13.0(r28)-新增内容与优化-全新关卡-联动 解压即玩%2E | https://pan.quark.cn/s/aee2fa20cf2d                 | zjde     |
+| 恐怖黎明：终极版 豪华中文收藏版 v1.1.9.8 全DLC 1.1.9.8升级补丁 支持手柄 解压即玩%2E | https://pan.quark.cn/s/ed9ae963f3b5                 | o0oo     |
+| 恐鬼症 官方中文 v0.8.1.7 单独联机补丁 支持手柄 解压即玩%2E   | https://pan.quark.cn/s/76fd7899caec                 | 3fc7     |
+| 卡牌生存：热带岛屿 官方中文 v1.05o 内置修改器 解压即玩%2E    | https://pan.quark.cn/s/a48812d8289a                 | kgzj     |
+| 狂野西部时代 官方中文 v0.1.8251 支持手柄 解压即玩%2E         | https://pan.quark.cn/s/bd9800293c87                 | 0yn2     |
+| 空中王国 官方中文 v1.10.3 解压即玩%2E                        | https://pan.quark.cn/s/b88cd7f67d23                 | kdpb     |
+| 狼奔豕突2：消失的信号 官方中文 v1.2.14 单独学习补丁 支持手柄 解压即玩%2E | https://pan.quark.cn/s/3a7858cfa16b                 | 5gko     |
+| 蜡笔小新 风起云涌! 火焰的春日部快腿侠!! 官方中文收藏版 v1.0.0 支持手柄 解压即玩%2E | https://pan.quark.cn/s/2a67cd0366de                 | x3br     |
+| 领地人生：林中村落 官方中文 v1.1.6814 支持手柄 解压即玩%2E   | https://pan.quark.cn/s/8c8d88990912                 | v60j     |
+| 领地：种田与征战 官方中文v20230113-全面发展 解压即玩%2E      | https://pan.quark.cn/s/5bafacfdfad4                 | 5iu6     |
+| 里弗希恩牧场 The Ranch of Rivershine 汉化简中 v1.0.0.4 解压即玩%2E | https://pan.quark.cn/s/f347def7b498                 | bz9l     |
+| 乐高积木传说 豪华中文 v1.6.r19417 全DLC 原声音乐 支持手柄 解压即玩%2E | https://pan.quark.cn/s/2c11face33a6                 | d046     |
+| 灵魂变种 官方中文 v1.1.1 支持手柄 解压即玩%2E                | https://pan.quark.cn/s/0d7b2bcf31c8                 | ee1k     |
+| 《死或生5：最后一战》免安装官方中文版 v1.10C+全DLC.zip       | https://pan.xunlei.com/s/VOWU0Fh_GjaQPF9zEiwNQ8DhA1 |          |
+| Winlator模拟器各版本大合集                                   | https://pan.xunlei.com/s/VOWU-yniGjaQPF9zEiwNPtTTA1 |          |
+| 鬼泣4完美存档.rar                                            | https://pan.xunlei.com/s/VOWU0-vhGjaQPF9zEiwNPu_CA1 |          |
+| 奥特曼格斗进化游戏剪辑                                       | https://pan.xunlei.com/s/VOWU01YErUcu62wAnKAw77-mA1 |          |
+| 假面骑士Faize格斗游戏视频                                    | https://pan.xunlei.com/s/VOWU03BvrUcu62wAnKAw797JA1 |          |
 
 ### **安卓手机PC模拟器** 
 
