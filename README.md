@@ -56,7 +56,49 @@
 
 [▶杂项游戏资源区（备用）](https://docs.qq.com/doc/DRGNwRW1tSlB2ZUJw)
 
-### Switch模拟器
+## 游戏模拟器
+
+以下模拟器都是为了能在普通安卓手机上，玩上switch游戏、PC单机游戏、PS2游戏、PSP游戏。
+
+| 平台   | 名称                       | 地址                                                     | 提取码 |
+| ------ | -------------------------- | -------------------------------------------------------- | ------ |
+| switch | 蛋蛋模拟器                 | https://pan.baidu.com/s/1vv-TLZQo7j7OaKQPVNSRpw?pwd=nz56 |        |
+| PC     | Winlator2模拟器            | https://pan.baidu.com/s/1SJ4n4eAcsOjjsKPOxjwu2w?pwd=u4ws |        |
+| PC     | Winlator模拟器各版本大合集 | https://pan.xunlei.com/s/VOWU-yniGjaQPF9zEiwNPtTTA1      |        |
+| PS2    | 以太模拟器                 | https://pan.baidu.com/s/104y_rd6D2xGMahbQRUmgUQ?pwd=fm0h |        |
+| PC     | ExaGear鲁大师ed版fix23版   | https://pan.baidu.com/s/1RHcmqFBx1Sy83Mic1-gneA?pwd=rmdp |        |
+| PC     | ExaGear模拟器              | https://pan.baidu.com/s/1lS7HhZbecTQgHpiV2q8iWg?pwd=tiuc |        |
+
+## 模拟器游戏镜像包
+
+| 分类      | 名称                          | 地址                                                     | 提取码 |
+| --------- | ----------------------------- | -------------------------------------------------------- | ------ |
+| PSP游戏包 | 奥特曼格斗进化0.iso           | https://pan.baidu.com/s/17LGtR-xdZXvuOQMihZZ3Fg?pwd=ftjw |        |
+| PC游戏包  | 罪恶都市中文版旧版.7z         | https://pan.baidu.com/s/1U5uZlvM7LpWdxPCsJkOMAA?pwd=nw1i |        |
+| PS2游戏包 | 龙珠Z电光火石                 | https://pan.baidu.com/s/1QxKhOFo_zsBXx-QHCOgezg?pwd=x3le |        |
+| PS2游戏包 | PS2《鬼泣3》特别中文版.rar    | https://pan.baidu.com/s/1iEvPQNEEcSWLSUHrnDecgQ?pwd=fnpc |        |
+| PS2游戏包 | ps2【奥特曼 奈克瑟斯】日版.7z | https://pan.baidu.com/s/160GZB7DZn4d4H6PzzMnaNQ?pwd=1nrd |        |
+| PS2游戏包 | ps2【战神1】中文版.iso        | https://pan.baidu.com/s/14QoJI4yTCICu2lFwX2_80w?pwd=g8xc |        |
+| PS2游戏包 | 奥特曼格斗进化2.iso           | https://pan.baidu.com/s/10kqOlytjLMPnuvQHGjysdw?pwd=jf48 |        |
+| PS2游戏包 | 奥特曼空想特摄.iso            | https://pan.baidu.com/s/1Y4V-FR9HtMQBiuiXeRNs3g?pwd=9pon |        |
+| PS2游戏包 | 生化危机4[简][国语配音].zip   | https://pan.baidu.com/s/1wgvPZRCi2-x3ZcIf6FZvVA?pwd=ktcc |        |
+|           |                               |                                                          |        |
+|           |                               |                                                          |        |
+
+## Switch游戏镜像包
+
+| 分类 | 名称 | 地址 | 提取码 |
+| ---- | ---- | ---- | ------ |
+|      |      |      |        |
+|      |      |      |        |
+|      |      |      |        |
+|      |      |      |        |
+|      |      |      |        |
+|      |      |      |        |
+
+
+
+## Switch模拟器
 
 ##### (手机配置骁龙8以上，无须root)
 
@@ -538,7 +580,10 @@
 | 藏在巴厘岛的猫【中文】【AVG】                    | https://pan.quark.cn/s/e67c9c353c87 | bv2q |
 | 斩之道【中文】【ACT】                            | https://pan.quark.cn/s/99102b3edab9 | 1j9k |
 
-
+| 最终复仇黄金合集【中文】【ACT】                      | https://pan.quark.cn/s/1a5af09818d8 | p0ku |
+| ---------------------------------------------------- | ----------------------------------- | ---- |
+| 重装机兵 雷诺斯 2 - Saturn 致敬精选辑【中文】【RPG】 | https://pan.quark.cn/s/d73bff88f4b1 | ryac |
+| 粘粘世界2【中文】【AVG】                             | https://pan.quark.cn/s/f90d4d6d3eb4 | 00f9 |
 
 ### 大型3A单机游戏
 
@@ -608,6 +653,86 @@
 | 鬼泣4完美存档.rar                                            | https://pan.xunlei.com/s/VOWU0-vhGjaQPF9zEiwNPu_CA1 |          |
 | 奥特曼格斗进化游戏剪辑                                       | https://pan.xunlei.com/s/VOWU01YErUcu62wAnKAw77-mA1 |          |
 | 假面骑士Faize格斗游戏视频                                    | https://pan.xunlei.com/s/VOWU03BvrUcu62wAnKAw797JA1 |          |
+
+| 破解版App游戏 | 10推币机——安卓苹果PC                                         | https://pan.baidu.com/s/1dnxmng9QQXsv-R_dJCfLWQ?pwd=83mo |      |
+| ------------- | ------------------------------------------------------------ | -------------------------------------------------------- | ---- |
+| 破解版App游戏 | 1祖师爷水果机-安卓                                           | https://pan.baidu.com/s/1VZYHUsl-5BomOxMBp8qrXA?pwd=vbf8 |      |
+| 破解版App游戏 | 2大富翁老虎机-安卓苹果PC                                     | https://pan.baidu.com/s/1iXqMt7JrDVI8wOsmH_bTIg?pwd=ghzs |      |
+| 破解版App游戏 | 5财神到-安卓苹果PC                                           | https://pan.baidu.com/s/18avFaMnZp2UOaFdO5OJGoA?pwd=11wy |      |
+| 破解版App游戏 | 部落冲突                                                     | https://pan.baidu.com/s/1pNr9UTHiX9v5Uf_3F101HA?pwd=2ueg |      |
+| 破解版App游戏 | 地府传说                                                     | https://pan.baidu.com/s/1RQUnM331SseZ6PVGX0a7qg?pwd=6f0y |      |
+| 破解版App游戏 | 地铁跑酷                                                     | https://pan.baidu.com/s/1rG1uif6MuE9oKN1RTteGGw?pwd=5g71 |      |
+| 破解版App游戏 | 钓鱼系列1                                                    | https://pan.baidu.com/s/1cp2xeh-iEsVEL0wRJgM0Wg?pwd=mq3n |      |
+| 破解版App游戏 | 钓鱼系列2                                                    | https://pan.baidu.com/s/1FFRSDejtW-AmBMYhWyUcwQ?pwd=ed9r |      |
+| 破解版App游戏 | 海岛奇兵                                                     | https://pan.baidu.com/s/1ZszNUFfLF-vbfmrjUnPHIQ?pwd=hg19 |      |
+| 破解版App游戏 | 最新金铲铲教程包                                             | https://pan.baidu.com/s/1vdLMfWeUiYMCc3GWAvQIfw?pwd=0unp |      |
+| switch游戏包  | GTA三部曲                                                    | https://www.123865.com/s/QlK2jv-1KMzH                    |      |
+| switch游戏包  | 超级马里奥系列                                               | https://www.123865.com/s/QlK2jv-4KMzH                    |      |
+| switch游戏包  | 我的世界系列                                                 | https://www.123865.com/s/QlK2jv-xKMzH                    |      |
+| switch游戏包  | 小小梦艳                                                     | https://www.123865.com/s/QlK2jv-pKMzH                    |      |
+| switch游戏包  | 海绵宝宝                                                     | https://www.123865.com/s/QlK2jv-fKMzH                    |      |
+| switch游戏包  | 胡闹系列                                                     | https://www.123865.com/s/QlK2jv-aKMzH                    |      |
+| switch游戏包  | 模拟器系列                                                   | https://www.123865.com/s/QlK2jv-BKMzH                    |      |
+| switch游戏包  | 传送门系列                                                   | https://www.123865.com/s/QlK2jv-JKMzH                    |      |
+| switch游戏包  | 马力欧vs咚奇刚                                               | https://www.123865.com/s/QlK2jv-IKMzH                    |      |
+| switch游戏包  | 马力奥明星大乱斗                                             | https://www.123865.com/s/QlK2jv-MKMzH                    |      |
+| switch游戏包  | [茶杯头].Cuphead                                             | https://www.123865.com/s/QlK2jv-wKMzH                    |      |
+| switch游戏包  | 世嘉MD官方模拟器合集（直装）                                 | https://www.123865.com/s/QlK2jv-gKMzH                    |      |
+| switch游戏包  | [鬼谷八荒].Tale of Immortal                                  | https://www.123865.com/s/QlK2jv-FKMzH                    |      |
+| switch游戏包  | 我的世界 地下城                                              | https://www.123865.com/s/QlK2jv-YKMzH                    |      |
+| switch游戏包  | 宝可梦传说 阿尔宙斯                                          | https://www.123865.com/s/QlK2jv-GKMzH                    |      |
+| switch游戏包  | 宝可梦紫和朱                                                 | https://www.123865.com/s/QlK2jv-PKMzH                    |      |
+| switch游戏包  | [怪物猎人物语2：破灭之翼].MONSTER HUNTER STORIES 2 WINGS OF RUIN | https://www.123865.com/s/QlK2jv-XKMzH                    |      |
+| switch游戏包  | 暗黑333                                                      | https://www.123865.com/s/QlK2jv-nKMzH                    |      |
+| switch游戏包  | LONGzzA卡卡特罗                                              | https://www.123865.com/s/QlK2jv-2KMzH                    |      |
+| switch游戏包  | 真人快打11                                                   | https://www.123865.com/s/QlK2jv-sKMzH                    |      |
+| switch游戏包  | 街头霸王全                                                   | https://www.123865.com/s/QlK2jv-WKMzH                    |      |
+| switch游戏包  | [拳皇13 全球对决].KOF XIII Global Match                      | https://www.123865.com/s/QlK2jv-CKMzH                    |      |
+| switch游戏包  | [口袋铁拳锦标赛DX].POKKéN TOURNAMENT DX                      | https://www.123865.com/s/QlK2jv-NKMzH                    |      |
+| switch游戏包  | 大闸蟹                                                       | https://www.123865.com/s/QlK2jv-OKMzH                    |      |
+| switch游戏包  | 龙珠超宇宙22222                                              | https://www.123865.com/s/QlK2jv-RKMzH                    |      |
+| switch游戏包  | [口袋铁拳锦标赛DX].POKKéN TOURNAMENT DX(1)                   | https://www.123865.com/s/QlK2jv-DKMzH                    |      |
+| switch游戏包  | 宝可梦 剑盾                                                  | https://www.123865.com/s/QlK2jv-rKMzH                    |      |
+| switch游戏包  | 真人快打1                                                    | https://www.123865.com/s/QlK2jv-8KMzH                    |      |
+| switch游戏包  | 天际线.xci                                                   | https://www.123865.com/s/QlK2jv-0KMzH                    |      |
+| switch游戏包  | 人类一败涂地.xci                                             | https://www.123865.com/s/QlK2jv-KKMzH                    |      |
+| switch游戏包  | 传送门桥梁建筑师.xci                                         | https://www.123865.com/s/QlK2jv-uKMzH                    |      |
+| switch游戏包  | 査尔思小火车.nsp                                             | https://www.123865.com/s/QlK2jv-UKMzH                    |      |
+| switch游戏包  | IGS 街机.xci                                                 | https://www.123865.com/s/QlK2jv-SKMzH                    |      |
+| switch游戏包  | 整蛊邻居.xci                                                 | https://www.123865.com/s/QlK2jv-lKMzH                    |      |
+| switch游戏包  | 橡胶强盗.xci                                                 | https://www.123865.com/s/QlK2jv-7KMzH                    |      |
+| switch游戏包  | 双点医院.xci                                                 | https://www.123865.com/s/QlK2jv-bKMzH                    |      |
+| switch游戏包  | 荒野大镖客救赎.xci                                           | https://www.123865.com/s/QlK2jv-ZKMzH                    |      |
+| switch游戏包  | 双点学校.xci                                                 | https://www.123865.com/s/QlK2jv-cKMzH                    |      |
+| switch游戏包  | 路易基鬼屋3.xci                                              | https://www.123865.com/s/QlK2jv-eKMzH                    |      |
+| switch游戏包  | 喷射战士3.xci                                                | https://www.123865.com/s/QlK2jv-tKMzH                    |      |
+| switch游戏包  | 模拟老大爷.xci                                               | https://www.123865.com/s/QlK2jv-iKMzH                    |      |
+| switch游戏包  | 模拟农场23.nsp                                               | https://www.123865.com/s/QlK2jv-zKMzH                    |      |
+| switch游戏包  | 超级鸡马.xci                                                 | https://www.123865.com/s/QlK2jv-LKMzH                    |      |
+| switch游戏包  | 植物大战僵尸和睦小镇保卫战.xci                               | https://www.123865.com/s/QlK2jv-5KMzH                    |      |
+| switch游戏包  | 禁闭求生.nsp                                                 | https://www.123865.com/s/QlK2jv-qKMzH                    |      |
+| switch游戏包  | 赛尔达传说：王国之泪.xci                                     | https://www.123865.com/s/QlK2jv-6KMzH                    |      |
+| switch游戏包  | 双人成行中文.xci                                             | https://www.123865.com/s/QlK2jv-yKMzH                    |      |
+| switch游戏包  | 保利桥官方中文.nsp                                           | https://www.123865.com/s/QlK2jv-VKMzH                    |      |
+| switch游戏包  | 方舟生存进化.xci                                             | https://www.123865.com/s/QlK2jv-jKMzH                    |      |
+| switch游戏包  | 荒岛求生.xci                                                 | https://www.123865.com/s/QlK2jv-TuMzH                    |      |
+
+## 游戏Mod制作
+
+| 游戏Mod工具 | PS2游戏解包                 | https://pan.baidu.com/s/1MULHWJybLMsVQbaA4NkL_A?pwd=j0tx |      |
+| ----------- | --------------------------- | -------------------------------------------------------- | ---- |
+| 游戏Mod工具 | 奥特曼格斗进化0高清纹理Mod  | https://pan.baidu.com/s/1rUO8q2x3JjKSek0Ewrc0TA?pwd=3ym6 |      |
+| 游戏Mod工具 | 鬼泣3Mod制作工具            | https://pan.baidu.com/s/1EnE4u4ZvRuHpT3hhP4YBIQ?pwd=xzp2 |      |
+| 游戏Mod工具 | 侠盗猎车罪恶都市人物Mod     | https://pan.baidu.com/s/1ZXGv9OTgrWhKrDMnK75fdQ?pwd=pdqj |      |
+| 游戏Mod工具 | ImgBurn侠盗飞车人物替换工具 | https://pan.baidu.com/s/1Q8iT1WgSSb_3fXF8kIiunA?pwd=mv2n |      |
+| 游戏Mod工具 | pak工具(游戏资源解包工具)   | https://pan.baidu.com/s/1ODffnIDYGrmIUZFJXyQIsA?pwd=r6uk |      |
+| 工具软件    | 各大游戏解包工具大全        | https://www.123865.com/s/QlK2jv-BRMzH                    |      |
+
+| switch模拟器 | YUZU模拟器4176版18.0.1固件全汉化版本(电脑版).zip | https://www.123865.com/s/QlK2jv-duMzH |      |
+| ------------ | ------------------------------------------------ | ------------------------------------- | ---- |
+| switch模拟器 | 超玩游戏盒_2.6.0.apk                             | https://www.123865.com/s/QlK2jv-3uMzH |      |
+| switch模拟器 | 51Switch管家_3.43.apk                            | https://www.123865.com/s/QlK2jv-huMzH |      |
+| switch模拟器 | switch游戏工具                                   | https://www.123865.com/s/QlK2jv-HuMzH |      |
 
 ### **安卓手机PC模拟器** 
 
